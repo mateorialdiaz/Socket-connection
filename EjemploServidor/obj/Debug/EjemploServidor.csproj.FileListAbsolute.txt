@@ -1,0 +1,21 @@
+C:\Users\Dario Cardacci\source\repos\CEMA\2020\AED\Unidad_6\Socket\EjemploServidor\bin\Debug\EjemploServidor.exe.config
+C:\Users\Dario Cardacci\source\repos\CEMA\2020\AED\Unidad_6\Socket\EjemploServidor\bin\Debug\EjemploServidor.exe
+C:\Users\Dario Cardacci\source\repos\CEMA\2020\AED\Unidad_6\Socket\EjemploServidor\bin\Debug\EjemploServidor.pdb
+C:\Users\Dario Cardacci\source\repos\CEMA\2020\AED\Unidad_6\Socket\EjemploServidor\obj\Debug\EjemploServidor.csprojAssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\CEMA\2020\AED\Unidad_6\Socket\EjemploServidor\obj\Debug\EjemploServidor.ServidorForm.resources
+C:\Users\Dario Cardacci\source\repos\CEMA\2020\AED\Unidad_6\Socket\EjemploServidor\obj\Debug\EjemploServidor.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\CEMA\2020\AED\Unidad_6\Socket\EjemploServidor\obj\Debug\EjemploServidor.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\CEMA\2020\AED\Unidad_6\Socket\EjemploServidor\obj\Debug\EjemploServidor.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\CEMA\2020\AED\Unidad_6\Socket\EjemploServidor\obj\Debug\EjemploServidor.exe
+C:\Users\Dario Cardacci\source\repos\CEMA\2020\AED\Unidad_6\Socket\EjemploServidor\obj\Debug\EjemploServidor.pdb
+C:\Users\Usuario\Downloads\Socket\Socket\EjemploServidor\bin\Debug\EjemploServidor.exe.config
+C:\Users\Usuario\Downloads\Socket\Socket\EjemploServidor\bin\Debug\EjemploServidor.exe
+C:\Users\Usuario\Downloads\Socket\Socket\EjemploServidor\bin\Debug\EjemploServidor.pdb
+C:\Users\Usuario\Downloads\Socket\Socket\EjemploServidor\obj\Debug\EjemploServidor.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\Socket\Socket\EjemploServidor\obj\Debug\EjemploServidor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Downloads\Socket\Socket\EjemploServidor\obj\Debug\EjemploServidor.ServidorForm.resources
+C:\Users\Usuario\Downloads\Socket\Socket\EjemploServidor\obj\Debug\EjemploServidor.Properties.Resources.resources
+C:\Users\Usuario\Downloads\Socket\Socket\EjemploServidor\obj\Debug\EjemploServidor.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\Socket\Socket\EjemploServidor\obj\Debug\EjemploServidor.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Socket\Socket\EjemploServidor\obj\Debug\EjemploServidor.exe
+C:\Users\Usuario\Downloads\Socket\Socket\EjemploServidor\obj\Debug\EjemploServidor.pdb
